@@ -1,2 +1,2 @@
 # hand-gesture-control-system
-Using machine learning models to predict hand gestures
+enables the user to directly access a file, function, or application through hand gestures by eliminating the touch interface and facilitates quick functionality of pc.
